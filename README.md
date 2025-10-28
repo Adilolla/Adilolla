@@ -1,6 +1,6 @@
 ![Aditya Jayarama Lolla - Professional Photo][profile-photo]
 
-[profile-photo]: https://github.com/adityajayarama/adityajayarama/blob/main/Gemini_Generated_Image_gi0jcpgi0jcpgi0j.jpg "Aditya Jayarama Lolla - Professional Photo"
+[profile-photo]: https://github.com/adityajayarama/adityajayarama/blob/main/Gemini_Generated_Image_gaecq0gaecq0gaec-removebg-preview.png "Aditya Jayarama Lolla - Professional Photo"
 
 # Hi 👋, I'm Aditya Jayarama Lolla
 
