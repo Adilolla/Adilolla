@@ -1,4 +1,4 @@
-<div align="center">
+**<div align="center">
   <img src="profile-photo.jpg" alt="Aditya Lolla" width="200" height="200" style="border-radius: 50%; object-fit: cover;" />
 </div>
 
@@ -46,3 +46,4 @@ When I'm not coding, you'll find me playing tennis, watching Formula 1, explorin
 
 **Email:** Adivlolla@gmail.com  
 **LinkedIn:** [linkedin.com/in/adityavlolla](https://linkedin.com/in/adityavlolla)
+**
