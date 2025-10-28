@@ -1,7 +1,5 @@
-<div align="center">
-  <img src="Gemini_Generated_Image_gaecq0gaecq0gaec-removebg-preview.png" alt="Aditya Jayarama Lolla - Professional Photo" width="180" />
   
-  <h1>👋 Hi, I'm Aditya Jayarama Lolla</h1>
+  <h1>👋 Hi, I'm Adi Lolla</h1>
   <h3>Computer Science Student @ SJSU | AI/ML Developer | Web Engineer | Data & Systems Enthusiast</h3>
 </div>
 
