@@ -1,5 +1,5 @@
-<!-- Place this at the top of your README.md -->
-<img src="Gemini_Generated_Image_gi0jcpgi0jcpgi0j.jpg" alt="Aditya Jayarama Lolla - Professional Photo" width="180" style="border-radius:50%;margin-bottom:16px;"/>
+<img src="Gemini_Generated_Image_gi0jcpgi0jcpgi0j.jpg" alt="Aditya Jayarama Lolla - Professional Photo" width="180" style="border-radius:50%; margin-bottom:16px;" />
+
 
 # Hi 👋, I'm Aditya Jayarama Lolla
 
