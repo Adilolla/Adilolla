@@ -1,3 +1,6 @@
+<!-- Place this at the top of your README.md -->
+<img src="Gemini_Generated_Image_gi0jcpgi0jcpgi0j.jpg" alt="Aditya Jayarama Lolla - Professional Photo" width="180" style="border-radius:50%;margin-bottom:16px;"/>
+
 # Hi 👋, I'm Aditya Jayarama Lolla
 
 **Computer Science Student at SJSU | AI/ML Developer | Web Engineer | Data & Systems Enthusiast**
@@ -7,7 +10,7 @@
 Currently developing **Petspace**, an AI-powered pet care platform using computer vision to track pet behavior and well-being.  
 I’m exploring scalable deployment with **Docker, FastAPI, AWS**, and **Vertex AI**, pushing towards production-ready model pipelines and efficient MLOps practices.
 
-I also work on projects bridging **machine learning** and **full-stack systems**, applying data-driven insights to real-world performance optimization.
+I also work on projects that bridge **machine learning** and **full-stack systems**, applying data-driven insights to real-world performance optimization.
 
 ## 💡 Interests & Focus
 
@@ -52,6 +55,6 @@ When I’m away from my screen, I enjoy playing tennis, watching Formula 1, expl
 
 ## 📫 Get In Touch
 
-**Email:** Venkataadityajayarama.lolla@sjsu.edu  
+**Email:** [Venkataadityajayarama.lolla@sjsu.edu](mailto:Venkataadityajayarama.lolla@sjsu.edu)  
 **LinkedIn:** [linkedin.com/in/adityajayarama](https://linkedin.com/in/adityajayarama)  
 **GitHub:** [github.com/adityajayarama](https://github.com/adityajayarama)
