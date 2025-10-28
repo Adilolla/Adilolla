@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="profile-photo.jpg" alt="Aditya Lolla" width="200" height="200" style="border-radius: 50%; object-fit: cover;" />
+</div>
+
 # Hi 👋, I'm Aditya Lolla
 
 **Computer Science Student at SJSU | AI/ML Enthusiast | Tech, Sports & F1 Fan**
