@@ -77,8 +77,8 @@ I’m also passionate about the intersection of **AI and language**, combining m
 ## 📫 Get In Touch
 
 📧 **Email:** [Venkataadityajayarama.lolla@sjsu.edu](mailto:Venkataadityajayarama.lolla@sjsu.edu)  
-💼 **LinkedIn:** [linkedin.com/in/adityajayarama](https://linkedin.com/in/adityajayarama)  
-💻 **GitHub:** [github.com/adityajayarama](https://github.com/adityajayarama)
+💼 **LinkedIn:** [linkedin.com/in/adityajayarama](https://linkedin.com/in/adityavlolla)  
+💻 **GitHub:** [github.com/adityajayarama](https://github.com/adilolla)
 
 ---
 
